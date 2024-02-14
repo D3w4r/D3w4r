@@ -1,7 +1,7 @@
 Hi 👋 My name is Greg
 =====================
 
-Back-End Developer at OTP Bank Nyrt., Hungary
+Medior Software Engineer, Hungary
 ---------------------------------------------
 
 * 🌍  I'm based in Budapest
